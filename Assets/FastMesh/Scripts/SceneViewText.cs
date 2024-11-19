@@ -13,15 +13,15 @@ namespace FastMesh_Example
     
         private void OnEnable()
         {
-            SceneView.duringSceneGui += OnSceneGUI;
+            //SceneView.duringSceneGui += OnSceneGUI;
         }
     
         private void OnDisable()
         {
-            SceneView.duringSceneGui -= OnSceneGUI;
+            //SceneView.duringSceneGui -= OnSceneGUI;
         }
     
-        private void OnSceneGUI(SceneView sceneView)
+        /*private void OnSceneGUI(SceneView sceneView)
         {
             if (isShow == false) return;
             
@@ -51,7 +51,7 @@ namespace FastMesh_Example
             // GUILayout.Label(text, style);
             // GUILayout.EndArea();
             Handles.EndGUI();
-        }
+        }*/
     }
 }
 

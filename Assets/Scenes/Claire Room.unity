@@ -2603,7 +2603,7 @@ PrefabInstance:
     - target: {fileID: 8560431894809411146, guid: 0e54e676d1e3f48078a1a251a387f8e0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.4
+      value: 3.067
       objectReference: {fileID: 0}
     - target: {fileID: 8560431894809411146, guid: 0e54e676d1e3f48078a1a251a387f8e0,
         type: 3}
@@ -2613,7 +2613,7 @@ PrefabInstance:
     - target: {fileID: 8560431894809411146, guid: 0e54e676d1e3f48078a1a251a387f8e0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.3
+      value: -1.47
       objectReference: {fileID: 0}
     - target: {fileID: 8560431894809411146, guid: 0e54e676d1e3f48078a1a251a387f8e0,
         type: 3}
@@ -2945,6 +2945,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: '[BuildingBlock] Camera Rig'
+      objectReference: {fileID: 0}
+    - target: {fileID: 668894378149937707, guid: be9480c49e25a4025924093339b883e6,
+        type: 3}
+      propertyPath: m_RenderPostProcessing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5882173743312652688, guid: be9480c49e25a4025924093339b883e6,
+        type: 3}
+      propertyPath: m_RenderPostProcessing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624514191290038840, guid: be9480c49e25a4025924093339b883e6,
+        type: 3}
+      propertyPath: m_RenderPostProcessing
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
