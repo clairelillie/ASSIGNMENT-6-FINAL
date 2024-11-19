@@ -1,6 +1,6 @@
 # ASSIGNMENT 6 
 Our escape room experience has a scifi-theme, with four unique puzzles that are well-suited for VR. The purple light strips on the floor use a custom shader similar to the one we built in assn 5. The game is won if all rooms are completed, and lost if a user gets stuck and cannot complete a puzzle. The first room has audio when playing the xylophone.  
-[full demo video]((https://youtu.be/g-YdtjCn6x8))  
+[full demo video](https://youtu.be/g-YdtjCn6x8)  
 Walkthrough:  
 In the birthday room, there are presents, balloons, and cake on 3 of the tables. The fourth has a simple xylophone. Play the xylophone by hitting the keys with the controllers. Play "Happy Birthday" to open the door (red, red, yellow, red, blue, green).  
 video (single eye due to audio recording restrictions)  
