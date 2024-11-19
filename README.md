@@ -6,7 +6,7 @@ In the birthday room, there are presents, balloons, and cake on 3 of the tables.
 video (single eye due to audio recording restrictions)  
 [birthday room video](https://www.youtube.com/watch?v=pyy7qVKTU7I)  
 In the combination lock room, pick up and rotate the objects to find a number, and enter them in the perscribed order on the keypad.  
-In the clock room, there are two items on each table. Tap on the clock with the controller to change the time to 2 o'clock.  
+In the clock room, there are two items on each table. Tap on the clock 2 times with the controller.  
 In the color room, there are colored tiles on the floor. Step on the tiles in the order of the colors on the wall.  
   
 [caroline playing the game](https://youtube.com/shorts/d-r26XYbzQY?feature=share)  
