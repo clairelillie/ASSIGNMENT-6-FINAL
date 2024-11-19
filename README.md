@@ -8,9 +8,6 @@ video (single eye due to audio recording restrictions)
 In the combination lock room, pick up and rotate the objects to find a number, and enter them in the perscribed order on the keypad.  
 In the clock room, there are two items on each table. Tap on the hour hand on the clock 2 times with the controller.  
 In the color room, there are colored tiles on the floor. Step on the tiles in the order of the colors on the wall.  
-  
-[caroline playing the game](https://youtube.com/shorts/d-r26XYbzQY?feature=share)  
-[reflecting on game](https://youtu.be/8eB658-9XzM)  
 
 Assets used:  
 [balloons](https://assetstore.unity.com/publishers/67263)  
@@ -21,3 +18,7 @@ Assets used:
 [santa hat](https://www.fab.com/listings/f181372e-799c-4dbc-90a2-4781a589a311)
 [coffee mug](https://www.fab.com/listings/eb1e7979-9b37-4bfb-9ced-f541aba16638)
 [sun picture](https://www.vecteezy.com/vector-art/522320-a-river-and-a-sun)
+[cupcake](https://assetstore.unity.com/packages/3d/props/coffeeshop-starter-pack-160914)
+[books](https://assetstore.unity.com/packages/3d/props/interior/interior-props-pack-asset-86452)
+[icons](https://assetstore.unity.com/packages/3d/props/tools/low-poly-icon-pack-created-with-fastmesh-asset-293113)
+[present](https://assetstore.unity.com/packages/3d/props/interior/christmas-and-birthday-presents-pack-157090)
